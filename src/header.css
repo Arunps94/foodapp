@@ -1,0 +1,16 @@
+
+.navbar{
+    background-color: darkblue;
+    color: white;
+    height: 80px;
+    margin-top: -20px;
+    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.2);
+}
+.text{
+    position: absolute;
+    margin-left: 20px;
+    margin-top:35px;
+    text-decoration: none;
+    color: white;
+    font-size:20px;
+}

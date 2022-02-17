@@ -1,0 +1,61 @@
+.container{
+    margin:50px;
+}
+
+.card{
+    height:550px;
+    width:25%;
+    margin-left: 5%;
+    margin-top: 5%;
+    box-shadow:10px 10px 20px gray;
+    float: left;
+}
+
+.cardImage{
+    height: 250px;
+    width: 100%;
+}
+
+.n{
+    margin-left:5%;
+}
+
+.plus{
+  
+   
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px  rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.btn-group{
+    width: 5%;
+    margin-left:5%;
+}
+
+.minus{
+   
+    margin-left:2%;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px  rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.checkout{
+    position: absolute;
+    margin-top: 5%;
+    margin-left:5%;
+    text-decoration: none;
+    background-color: darkblue;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px  rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
